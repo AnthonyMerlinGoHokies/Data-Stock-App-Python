@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
+#Shows the Stock of Google with using and learing in depth the stremalit & yfiance library towards making an easy code
 
 # In[1]:
 
@@ -12,7 +11,6 @@ st.write("""
 Shown are the stock closing price and volume of Google!
 """)
 
-# https://towardsdatascience.com/how-to-get-stock-data-using-python-c0de1df17e75
 #define the ticker symbol
 tickerSymbol = 'GOOGL'
 #get data on this ticker
